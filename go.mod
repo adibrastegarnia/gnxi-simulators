@@ -3,9 +3,11 @@ module github.com/onosproject/simulators
 go 1.12
 
 require (
+	github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/protobuf v1.3.1
 	github.com/google/gnxi v0.0.0-20190228205329-8521faedac37
+	github.com/jeremywohl/flatten v0.0.0-20180923035001-588fe0d4c603
 	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/openconfig/gnmi v0.0.0-20180912164834-33a1865c3029
 	github.com/openconfig/goyang v0.0.0-20190408185115-e8b0ed2cbb0c
